@@ -1,5 +1,3 @@
-This project involved creating a paginated report for a hospital survey, using stored procedure as data source from MySQL database. The report included multiple pages with matrix visuals and incorporated parameters and conditional logic to control the display of certain matrices based on conditions.
-
 **DESCRIPTION:**
 
 In this project, I developed a detailed paginated report for a hospital survey, leveraging a stored procedure as the primary data source from a SQL Server database. The report was designed to provide comprehensive insights into survey results, structured across multiple pages with various visual elements.
@@ -7,7 +5,6 @@ In this project, I developed a detailed paginated report for a hospital survey, 
 **Key Features and Components:**
 
 **1- Stored Procedure as Data Source:**
-
 The report was powered by a stored procedure in the SQL Server database, which efficiently retrieved and processed the necessary data. The stored procedure included parameters that allowed for dynamic filtering and customization of the report based on specific criteria, such as survey date range or department.
 
 **2- Multiple Pages and Matrix Visuals:**
